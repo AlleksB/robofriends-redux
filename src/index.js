@@ -22,5 +22,3 @@ root.render(
 );
 
 reportWebVitals();
-
-//Just a comment...
